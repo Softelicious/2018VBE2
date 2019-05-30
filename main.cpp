@@ -1,3 +1,4 @@
+//Kūrė Dominykas Rakūnas
 #include <bits/stdc++.h> //includina visas bibliotekas
 
 using namespace std;
@@ -18,7 +19,7 @@ int main()
 
     string name_of_participant; //slidininko identifikatorius
     int index = 0; //reikalingas sukurti galutiniam masyvui be skyliu
-    int h, m, s;
+    int h, m, s; //valanda, minute, sekunde
     int starting_participants; // duotas kiekit zaideju
     int finished_participants; // duotas kiekis likusiu zaideju
     skiers starter[30]; // pradiniai zaidejai
